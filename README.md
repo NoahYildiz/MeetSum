@@ -2,7 +2,7 @@
 This Tool can summarize meetings from audio files and upload the summary into a Slack channel.
 
 I've build an UI with streamlit for easy use
-![image](https://user-images.githubusercontent.com/47228256/219875280-cc769ca0-6504-4ab8-ab09-399e7b3c0253.png)
+![image](https://user-images.githubusercontent.com/47228256/219875509-0dd5a714-09c6-4f3e-80b5-a59d11dc3b16.png)
 
 
 IMPORTANT: 
