@@ -1,4 +1,4 @@
-# MeetSum
+## MeetSum
 This Tool can summarize meetings from audio files and upload the summary into a Slack channel.
 
 I've build an UI with streamlit for easy use
